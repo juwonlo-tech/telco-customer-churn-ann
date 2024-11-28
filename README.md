@@ -69,5 +69,5 @@ To resolve this, 3 approaches were implemented
 Underfitting and SMOTE led to a decrease in accuracy but created a balance in the classes for other metrics namely precision, recall, and f1-score. 
 Undersampling and Oversampling improved the precision, recall, and f1-score of the model especially for predicting whether the customer left (1). The metrics reduced for whether the customer stayed (0).
 
-The full notebook is available here:
+The full notebook is available here: https://github.com/juwonlo-tech/telco-customer-churn-ann/blob/main/Telco_Customer_Churn_ANN.ipynb
 
